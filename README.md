@@ -10,8 +10,8 @@ I've been learning to code for 4 years. i started with python, have really found
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/hediye-jamili/)
 * ✉️  You can contact me at [hediehjamili79@gmail.com](mailto:hediehjamili79@gmail.com)
 * 🚀  I'm currently working on [Orash Software Group](http://orash.ir)
-* 🧠  I'm learning Image Processing - AI
-* 🤝  I'm open to collaborating on .net and image processing researches
+* 🧠  I'm learning Image Processing, machine learning - AI
+* 🤝  I'm open to collaborating on .net, image processing and machine learning researches
 
 <a href="https://www.github.com/hedieh-hj" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/hedieh-hj?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
