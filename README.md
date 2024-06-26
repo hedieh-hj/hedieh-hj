@@ -1,7 +1,7 @@
 Hi 👋 My name is Hedieh Jamili
 =====================================================================================================================================
 
-.NET Developer - AI Reasercher
+.NET Developer - Artificial Intelligence engineer
 ------------------------------
 
 I've been learning to code for 4 years. i started with python, have really found a passion for backend (.net) development. Computer Engineering Graduate of Sadjad University of technology. I am Studying master's degree in artificial intelligence at Azad University.
