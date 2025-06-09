@@ -9,7 +9,7 @@ I've been learning to code for 4 years. i started with python, have really found
 * 🌍  I'm based in IRAN, Mashhad
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/hediye-jamili/)
 * ✉️  You can contact me at [hediehjamili79@gmail.com](mailto:hediehjamili79@gmail.com)
-* 🚀  I'm currently working on [Orash Software Group](http://orash.ir)
+* 🚀  I'm currently working on [Orash Software Company](http://orash.ir)
 * 🧠  I'm learning NLP - AI
 * 🤝  I'm open to collaborating on .NET, NLP and machine learning researches
 
