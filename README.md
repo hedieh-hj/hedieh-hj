@@ -1,4 +1,4 @@
-Hi 👋 My name is Hediye Jamili
+Hi 👋 My name is Hedieh Jamili
 =====================================================================================================================================
 
 .NET Developer - Artificial Intelligence engineer
