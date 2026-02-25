@@ -4,14 +4,15 @@ Hi 👋 My name is Hedieh Jamili
 .NET Developer - Artificial Intelligence engineer
 ------------------------------
 
-I've been learning to code for 4 years. i started with python, have really found a passion for backend (.net) development. Computer Engineering Graduate of Sadjad University of technology. I am Studying master's degree in artificial intelligence at Azad University.
+I am a backend developer with 4 years of programming experience, starting with Python and later specializing in .NET backend development. I hold a Bachelor’s degree in Computer Engineering from Sadjad University of Technology and  currently pursuing a Master’s degree in Artificial Intelligence at Azad University.  
+I am passionate about building scalable backend systems and exploring AI and NLP research.
 
 * 🌍  I'm based in IRAN, Mashhad
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/hediye-jamili/)
 * ✉️  You can contact me at [hediehjamili79@gmail.com](mailto:hediehjamili79@gmail.com)
 * 🚀  I'm currently working on [Sadgan Company](http://sadgan.com/)
-* 🧠  I'm learning NLP - AI
-* 🤝  I'm open to collaborating on .NET, NLP and machine learning researches
+* 🧠  Focused on NLP, machine learning, and AI research
+* 🤝  Open to collaboration on .NET, AI, and research projects
 
 <a href="https://www.github.com/hedieh-hj" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/hedieh-hj?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
